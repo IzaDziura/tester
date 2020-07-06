@@ -1,2 +1,4 @@
+
 Zmiana w pliku. // pierdol się
+Nowa funkcjonalność.
 
